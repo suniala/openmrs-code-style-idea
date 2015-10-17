@@ -10,6 +10,7 @@
       <option name="LABEL_INDENT_SIZE" value="0" />
       <option name="LABEL_INDENT_ABSOLUTE" value="false" />
       <option name="USE_RELATIVE_INDENTS" value="false" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </value>
   </option>
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
@@ -89,6 +90,7 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
