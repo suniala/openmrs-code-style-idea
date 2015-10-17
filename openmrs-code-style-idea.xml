@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <code_scheme name="openmrs_codestyle">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
@@ -13,8 +12,23 @@
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </value>
   </option>
-  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
-  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="5000" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="5000" />
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="" withSubpackages="true" static="true" />
+      <emptyLine />
+      <package name="java" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="javax" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="org" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="com" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="false" />
+    </value>
+  </option>
   <option name="RIGHT_MARGIN" value="125" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="JD_KEEP_EMPTY_LINES" value="false" />
