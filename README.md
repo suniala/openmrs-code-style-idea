@@ -1,6 +1,6 @@
 # openmrs-code-style-idea
 
-Code formatting rules for (OpenMRS)[http://openmrs.org] core and module developers who use IntelliJ IDEA. The rule
+Code formatting rules for [OpenMRS](http://openmrs.org) core and module developers who use IntelliJ IDEA. The rule
 set has two goals:
 
  * Java code formatting rules that follow the OpenMRS rules defined at 
