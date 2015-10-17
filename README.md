@@ -1,0 +1,1 @@
+# openmrs-code-style-idea
