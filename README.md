@@ -1,7 +1,7 @@
 # openmrs-code-style-idea
 
-Code formatting rules for [OpenMRS](http://openmrs.org) core and module developers who use IntelliJ IDEA. The rule
-set has two goals:
+Code style scheme for [OpenMRS](http://openmrs.org) core and module developers who use IntelliJ IDEA. The scheme has two 
+goals:
 
  * Java code formatting rules that follow the OpenMRS rules defined at 
    [OpenMRS Docs](https://wiki.openmrs.org/display/docs/Code+Style) and, more specifically, by the formatting rules 
@@ -14,12 +14,16 @@ set has two goals:
 
 ## Compatibility
 
-The code style file has been created with IDEA 14. Compatibility with other versions has not been tested.
+The code style scheme file has been verified to work on:
+ 
+ * IDEA 14
+ 
+ * IDEA 15
 
 
-## Using the rule set
+## Using the scheme
 
-Importing the rule set into IDEA is as simple as:
+Importing the scheme set into IDEA is as simple as:
 
  1. Copy the file openmrs-code-style-idea.xml under `<INTELLIJ_HOME>/config/codestyles/`
 
