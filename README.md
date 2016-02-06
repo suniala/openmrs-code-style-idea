@@ -33,6 +33,9 @@ Importing the scheme set into IDEA is as simple as:
 
  4. Select "openmrs-code-style-idea" from the Scheme drop down
 
+## Hints
+
+On OSX you might find the codestyles folder at `~/Library/Preferences/IntelliJIdea15/codestyles`
 
 ## Contributing
 
